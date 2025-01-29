@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GuessTheNumber" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/navy_blue</item>
+        <item name="colorPrimaryVariant">@color/dark_blue</item>
+        <item name="colorSecondary">@color/mustard</item>
+        <item name="colorSecondaryVariant">@color/orange</item>
+    </style>
+</resources>
